@@ -1,0 +1,4 @@
+{
+  "name": "vite-react-yarn-pnp",
+  "packageManager": "yarn@3.0.0"
+}
